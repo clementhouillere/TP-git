@@ -1,3 +1,4 @@
-### application.bat - 201x - Clément HOUILLERE ###
-echo version 1
+### application.bat - 2015 - Clément HOUILLERE ###
+echo version 1.1
+echo "Copyright company - 2015"
 echo "Build : 10:00"
